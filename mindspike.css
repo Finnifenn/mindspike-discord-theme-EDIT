@@ -22,14 +22,14 @@
 
 
 :root {
-	--mindspike-chat-color0: aqua;
+	--mindspike-chat-color0: #ff0066;
 	--mindspike-chat-color1: yellow;
 	--mindspike-chat-input-color: magenta;
 	--mindspike-left-sidebar-color0: gray;
-	--mindspike-left-sidebar-color1: aqua;
-	--mindspike-headerbar-color: aqua;
+	--mindspike-left-sidebar-color1: #ff0066;
+	--mindspike-headerbar-color: #ff0066;
 	--mindspike-emoji-picker-color0: yellow;
-	--mindspike-emoji-picker-color1: aqua;
+	--mindspike-emoji-picker-color1: #ff0066;
 	--mindspike-profile-color: yellow;
 	--mindspike-profile-full-color: yellow;
 }
@@ -49,23 +49,23 @@
 	--home-background: black !important;
 	--custom-category-channel-space-before-category: 2px !important;
 	--button-secondary-background: yellow !important;
-	--button-secondary-background-hover: aqua !important;
+	--button-secondary-background-hover: #FF0066 !important;
 	--brand-experiment: yellow !important;
 	--button-positive-background: yellow !important;
-	--button-positive-background-hover: aqua !important;
+	--button-positive-background-hover: #FF0066 !important;
 	--modal-footer-background: black !important;
 	--button-danger-background: #FF0066 !important;
-	--button-danger-background-hover: aqua !important;
+	--button-danger-background-hover: #FF0066 !important;
 	--button-outline-danger-border: #FF0066 !important;
 	--button-outline-danger-border-hover: #FF0066 !important;
 	--button-outline-danger-background-hover: #FF0066 !important;
 	--button-outline-danger-text: #FF0066 !important;
 	--button-outline-danger-text-hover: black !important;
 	--profile-gradient-button-color: yellow;
-	--brand-500: aqua;
-	--bg-brand: aqua;
+	--brand-500: #FF0066;
+	--bg-brand: #FF0066;
 	--brand-200: #FF0066;
-	--text-positive: aqua;
+	--text-positive: #FF0066;
 }
 
 /* .colorBrand__201d5 {
@@ -99,7 +99,7 @@ body *, ::placeholder {
 }
 
 ::-webkit-scrollbar-thumb {
-	background: aqua !important;
+	background: #FF0066 !important;
     border-radius: 0 !important;
 }
 
@@ -565,7 +565,7 @@ body *, ::placeholder {
 	margin: 10 !important;
 	padding: 0 4px;
 	border: 5px double;
-	background: aqua;
+	background: #FF0066;
 	height: 1px;
 }
 
@@ -586,7 +586,7 @@ body *, ::placeholder {
 /* message input */
 .channelTextArea_f75fb0 .scrollableContainer__74017 {
     background: linear-gradient(rgb(0 0 0 / 75%), rgba(0, 0, 0, 0.75)), url("assets/cneural.gif");
-    box-shadow: 0px 0px 10px aqua;
+    box-shadow: 0px 0px 10px #FF0066;
     border-radius: 25px;
 }
 
@@ -599,7 +599,7 @@ body *, ::placeholder {
 }
 
 .channelTextArea_f75fb0 > .scrollableContainer__74017:focus-within {
-    box-shadow: 0px 0px 20px aqua;
+    box-shadow: 0px 0px 20px #FF0066;
     outline: 1px solid white;
 }
 
@@ -640,7 +640,7 @@ body *, ::placeholder {
 /* styling toolbar */
 .toolbar_bba883 {
 	background: black;
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 	border-radius: 0;
 }
 
@@ -649,11 +649,11 @@ body *, ::placeholder {
 }
 
 .buttons_bba883 .button__201d5.lookFilled__201d5 * {
-	color: aqua !important;
+	color: #FF0066 !important;
 }
 
 .buttons_bba883 .button__201d5.lookFilled__201d5:hover {
-	background: aqua;
+	background: #FF0066;
 }
 
 .buttons_bba883 .button__201d5.lookFilled__201d5:hover *,
@@ -740,12 +740,12 @@ body *, ::placeholder {
 }
 
 .item_c1e9c4.colorBrand_c1e9c4 {
-	color: aqua;
-	border-color: aqua;
+	color: #FF0066;
+	border-color: #FF0066;
 }
 
 .item_c1e9c4.colorBrand_c1e9c4.focused_c1e9c4, .item_c1e9c4.colorBrand_c1e9c4:active {
-	background: aqua !important;
+	background: #FF0066 !important;
 }
 
 
@@ -956,7 +956,7 @@ body *, ::placeholder {
 
 .answerInner__4c520 {
 	border-top-right-radius: 20px !important;
-	border-right-color: aqua !important;
+	border-right-color: #FF0066 !important;
 	background: white !important;
 	color: black !important;
 	border: 0.32rem double;
@@ -975,7 +975,7 @@ body *, ::placeholder {
 }
 
 .votePercentageBar__4c520 {
-	background-color: aqua;
+	background-color: #FF0066;
 }
 
 .votesData__4c520 > * {
@@ -1138,7 +1138,7 @@ body *, ::placeholder {
 }
 
 .avatarWrapper_f89da9:hover {
-	border-color: aqua;
+	border-color: #FF0066;
 }
 
 .avatarHint_f89da9 {
@@ -1633,7 +1633,7 @@ body *, ::placeholder {
 }
 
 .searchResult__02a39 {
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 	border-radius: 0;
 }
 
@@ -1664,7 +1664,7 @@ body *, ::placeholder {
 }
 
 .button__201d5.lookFilled__201d5.colorBrand__201d5:hover, .buttonColor_e36233:hover {
-	background: aqua !important;
+	background: #FF0066 !important;
 	opacity: 1;
 }
 
@@ -1842,7 +1842,7 @@ body *, ::placeholder {
 
 /* forums */
 .container_faa96b {
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 	border-radius: 0;
 	transition: none;
 }
@@ -1856,7 +1856,7 @@ body *, ::placeholder {
 
 /* streams */
 .tile__90dc5, .borderRadius__6341f {
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 }
 
 .tile__90dc5, .borderRadius__6341f, .pictureInPictureVideo_e4cb9a {
@@ -1921,8 +1921,8 @@ body *, ::placeholder {
 }
 
 .item__001a7[aria-checked=true] {
-	background: aqua !important;
-	border-color: aqua;
+	background: #FF0066 !important;
+	border-color: #FF0066;
 }
 
 .item__001a7:hover *, .item__001a7[aria-checked=true] * {
@@ -1975,14 +1975,14 @@ body *, ::placeholder {
 }
 
 .messageGroupWrapper__45690 .messageGroupCozy__45690 {
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 	margin: 8px;
 	padding: 10px 0 10px 60px;
 	overflow: hidden;
 }
 
 .messageContainer__95796 {
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 	border-radius: 0;
 	padding-right: 0;
 	padding-bottom: 0;
@@ -2018,7 +2018,7 @@ body *, ::placeholder {
 .autocomplete__6b0e0, .autocomplete__13533 {
 	background: black !important;
 	border-radius: 0;
-	border: 1px solid aqua;
+	border: 1px solid #FF0066;
 }
 
 .scroller__6b0e0 {
@@ -2029,32 +2029,32 @@ body *, ::placeholder {
 .scroller__6b0e0 > .base__13533 {
 	margin: 0 0 4px 0;
 	padding-bottom: 4px;
-	border-bottom: 1px solid aqua;
+	border-bottom: 1px solid #FF0066;
 	border-radius: 0;
 }
 
 .scroller__6b0e0 > .base__13533 * {
-	color: aqua;
+	color: #FF0066;
 	font-size: 0.8rem;
 }
 
 .categoryHeader_d1405b {
 	background-color: black;
-	border-bottom: 1px solid aqua;
+	border-bottom: 1px solid #FF0066;
 	margin-bottom: 4px;
 }
 
 .categoryHeader_d1405b * {
-	color: aqua;
+	color: #FF0066;
 }
 
 .autocompleteRow__13533 {
 	border: 1px solid transparent;
-	border-top: 1px dashed aqua;
+	border-top: 1px dashed #FF0066;
 }
 
 .autocompleteRow__13533 * {
-	color: aqua !important;
+	color: #FF0066 !important;
 }
 
 .autocompleteRow__13533:nth-child(2) {
